@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+outputs/
+비밀번호.txt
