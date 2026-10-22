@@ -1,0 +1,11 @@
+2026.10.22 Day4 실습 · 수강생용
+
+1. ZIP을 완전히 압축 해제하고 현재 역할 폴더를 VS Code로 여세요.
+2. README.md의 개발환경 준비와 PPT_실습_대응표.md를 확인하세요.
+3. 기본필수부터 실행: python tools/run.py --exercise 01 --level basic
+4. 기능 검사: python tools/check.py --exercise 01 --level basic
+5. 실습 06→07→08은 같은 day4_eda의 Git 활동→구현→검증·제출입니다.
+
+수강생용 코드의 NotImplementedError는 직접 완성할 TODO입니다.
+Windows에서 가상환경을 활성화하지 않았다면 python 대신
+.\.venv\Scripts\python.exe를 사용하세요.

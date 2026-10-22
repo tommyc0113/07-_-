@@ -1,0 +1,208 @@
+{
+  "01_basic": {
+    "path": "ex01_numpy/01_기본필수",
+    "entry": "ex01_numpy.py",
+    "slide": 12,
+    "targets": [
+      "N_AXIS"
+    ]
+  },
+  "01_applied": {
+    "path": "ex01_numpy/02_응용",
+    "entry": "ex01_numpy.py",
+    "slide": 12,
+    "targets": [
+      "N_SCALE",
+      "N_VALID"
+    ]
+  },
+  "01_advanced": {
+    "path": "ex01_numpy/03_심화",
+    "entry": "ex01_numpy.py",
+    "slide": 12,
+    "targets": [
+      "N_SHAPE",
+      "N_VALID",
+      "N_RATE"
+    ]
+  },
+  "02_basic": {
+    "path": "ex02_clean/01_기본필수",
+    "entry": "ex02_clean.py",
+    "slide": 23,
+    "targets": [
+      "C_COPY",
+      "C_NUMERIC"
+    ]
+  },
+  "02_applied": {
+    "path": "ex02_clean/02_응용",
+    "entry": "ex02_clean.py",
+    "slide": 23,
+    "targets": [
+      "C_DATE",
+      "C_QUALITY"
+    ]
+  },
+  "02_advanced": {
+    "path": "ex02_clean/03_심화",
+    "entry": "ex02_clean.py",
+    "slide": 23,
+    "targets": [
+      "C_AUDIT",
+      "C_QUALITY"
+    ]
+  },
+  "03_basic": {
+    "path": "ex03_aggregate/01_기본필수",
+    "entry": "ex03_aggregate.py",
+    "slide": 33,
+    "targets": [
+      "A_GROUP"
+    ]
+  },
+  "03_applied": {
+    "path": "ex03_aggregate/02_응용",
+    "entry": "ex03_aggregate.py",
+    "slide": 33,
+    "targets": [
+      "A_PIVOT",
+      "A_JOIN"
+    ]
+  },
+  "03_advanced": {
+    "path": "ex03_aggregate/03_심화",
+    "entry": "ex03_aggregate.py",
+    "slide": 33,
+    "targets": [
+      "A_DAILY",
+      "A_COST",
+      "A_WEIGHT"
+    ]
+  },
+  "04_basic": {
+    "path": "ex04_visualization/01_기본필수",
+    "entry": "ex04_plot.py",
+    "slide": 43,
+    "targets": [
+      "P_BAR",
+      "P_HIST"
+    ]
+  },
+  "04_applied": {
+    "path": "ex04_visualization/02_응용",
+    "entry": "ex04_plot.py",
+    "slide": 43,
+    "targets": [
+      "P_SCATTER"
+    ]
+  },
+  "04_advanced": {
+    "path": "ex04_visualization/03_심화",
+    "entry": "ex04_plot.py",
+    "slide": 43,
+    "targets": [
+      "P_DAILY"
+    ]
+  },
+  "05_basic": {
+    "path": "ex05_files/01_기본필수",
+    "entry": "ex05_files.py",
+    "slide": 52,
+    "targets": [
+      "I_CSV",
+      "I_JSON",
+      "I_READ"
+    ]
+  },
+  "05_applied": {
+    "path": "ex05_files/02_응용",
+    "entry": "ex05_files.py",
+    "slide": 52,
+    "targets": [
+      "I_FLATTEN",
+      "I_VERIFY"
+    ]
+  },
+  "05_advanced": {
+    "path": "ex05_files/03_심화",
+    "entry": "ex05_files.py",
+    "slide": 52,
+    "targets": [
+      "I_VERIFY"
+    ]
+  },
+  "06_basic": {
+    "path": "ex06_git/01_기본필수",
+    "entry": "활동안내.md",
+    "slide": 62,
+    "targets": []
+  },
+  "06_applied": {
+    "path": "ex06_git/02_응용",
+    "entry": "활동안내.md",
+    "slide": 62,
+    "targets": []
+  },
+  "06_advanced": {
+    "path": "ex06_git/03_심화",
+    "entry": "활동안내.md",
+    "slide": 62,
+    "targets": []
+  },
+  "07_basic": {
+    "path": "ex07_project/01_기본필수",
+    "entry": "day4_eda/main.py",
+    "slide": 72,
+    "targets": [
+      "PIPE_CORE",
+      "PIPE_FILES",
+      "PIPE_CHARTS"
+    ]
+  },
+  "07_applied": {
+    "path": "ex07_project/02_응용",
+    "entry": "day4_eda/main.py",
+    "slide": 72,
+    "targets": [
+      "I_FLATTEN",
+      "A_JOIN",
+      "PIPE_EXTRA"
+    ]
+  },
+  "07_advanced": {
+    "path": "ex07_project/03_심화",
+    "entry": "day4_eda/main.py",
+    "slide": 72,
+    "targets": [
+      "C_AUDIT",
+      "A_DAILY",
+      "PIPE_EXTRA"
+    ]
+  },
+  "08_basic": {
+    "path": "ex08_assessment/01_기본필수",
+    "entry": "validate_submission.py",
+    "slide": 75,
+    "targets": [
+      "V_TABLES"
+    ]
+  },
+  "08_applied": {
+    "path": "ex08_assessment/02_응용",
+    "entry": "validate_submission.py",
+    "slide": 75,
+    "targets": [
+      "V_JOIN"
+    ]
+  },
+  "08_advanced": {
+    "path": "ex08_assessment/03_심화",
+    "entry": "validate_submission.py",
+    "slide": 75,
+    "targets": [
+      "V_TABLES",
+      "V_JOIN"
+    ]
+  }
+}

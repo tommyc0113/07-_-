@@ -1,0 +1,13 @@
+﻿run_id,agent,latency_ms,tokens,status,day,rate_per_1k,_merge,cost_unit
+R01,planner,100.0,50.0,ok,2026-10-21,0.2,both,0.010000000000000002
+R02,researcher,300.0,100.0,ok,2026-10-21,0.4,both,0.04000000000000001
+R03,writer,200.0,80.0,ok,2026-10-21,0.3,both,0.024
+R04,planner,120.0,60.0,ok,2026-10-21,0.2,both,0.012
+R05,researcher,500.0,200.0,ok,2026-10-21,0.4,both,0.08000000000000002
+R06,writer,250.0,90.0,ok,2026-10-21,0.3,both,0.027
+R07,planner,140.0,70.0,ok,2026-10-22,0.2,both,0.014000000000000002
+R08,researcher,,100.0,error,2026-10-22,0.4,both,0.04000000000000001
+R09,writer,,110.0,ok,2026-10-22,0.3,both,0.033
+R10,planner,,,error,2026-10-22,0.2,both,
+R11,researcher,900.0,300.0,error,,0.4,both,0.12
+R12,writer,350.0,120.0,ok,2026-10-22,0.3,both,0.036

@@ -1,0 +1,29 @@
+[
+  {
+    "agent":"planner",
+    "runs":4,
+    "measured":3,
+    "mean_ms":120.0,
+    "median_ms":120.0,
+    "success_rate":0.75,
+    "success_pct":75.0
+  },
+  {
+    "agent":"researcher",
+    "runs":4,
+    "measured":3,
+    "mean_ms":566.6666666667,
+    "median_ms":500.0,
+    "success_rate":0.5,
+    "success_pct":50.0
+  },
+  {
+    "agent":"writer",
+    "runs":4,
+    "measured":3,
+    "mean_ms":266.6666666667,
+    "median_ms":250.0,
+    "success_rate":1.0,
+    "success_pct":100.0
+  }
+]

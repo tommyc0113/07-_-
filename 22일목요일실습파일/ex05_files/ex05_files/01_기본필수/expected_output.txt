@@ -1,0 +1,6 @@
+{
+  "csv_rows": 12,
+  "json_rows": 3,
+  "latency_missing": 3,
+  "verified": true
+}

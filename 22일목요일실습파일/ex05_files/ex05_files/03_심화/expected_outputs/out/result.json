@@ -1,0 +1,11 @@
+{
+  "csv_rows": 12,
+  "json_rows": 3,
+  "latency_missing": 3,
+  "verified": true,
+  "leading_zero_ids": [
+    "001",
+    "002"
+  ],
+  "joined_rows": 12
+}

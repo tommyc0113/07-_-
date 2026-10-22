@@ -1,0 +1,53 @@
+{
+  "bar": {
+    "agents": [
+      "planner",
+      "researcher",
+      "writer"
+    ],
+    "measured": [
+      3,
+      3,
+      3
+    ],
+    "runs": [
+      4,
+      4,
+      4
+    ],
+    "means": [
+      120.0,
+      566.6666666667,
+      266.6666666667
+    ]
+  },
+  "hist": {
+    "n": 9,
+    "missing": 3,
+    "counts": [
+      3,
+      4,
+      1,
+      0,
+      1
+    ],
+    "edges": [
+      0.0,
+      200.0,
+      400.0,
+      600.0,
+      800.0,
+      1000.0
+    ]
+  },
+  "scatter": {
+    "n": 9,
+    "excluded": 3,
+    "selection": "두 측정값이 모두 유효한 행"
+  },
+  "daily": {
+    "unknown_date_runs": 1,
+    "known_dates": 2,
+    "policy": "날짜 미상 별도 보고, 없는 날짜는 보간하지 않음"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "quality": {
+    "raw_rows": 13,
+    "clean_rows": 12,
+    "exact_duplicates_removed": 1,
+    "unique_ids": 12,
+    "latency_valid": 9,
+    "latency_missing": 3,
+    "latency_missing_ids": [
+      "R08",
+      "R09",
+      "R10"
+    ],
+    "tokens_valid": 11,
+    "tokens_missing": 1,
+    "day_missing": 1,
+    "day_missing_ids": [
+      "R11"
+    ],
+    "ok": 9,
+    "error": 3,
+    "policy": "실패 행 보존; 평균은 유효 측정; 성공률은 전체 실행; 결측 0 대체 금지"
+  },
+  "overall_mean_ms": 317.77777777777777,
+  "overall_median_ms": 250.0,
+  "p90_ms": 580.0000000000001,
+  "hist_counts": [
+    3,
+    4,
+    1,
+    0,
+    1
+  ],
+  "cost": null,
+  "input_sha256": "6561ada26d09d53156e183d114910a9ca4c2c88d75896697e546c6f78298787f",
+  "synthetic_data": true
+}

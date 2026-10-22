@@ -1,0 +1,13 @@
+﻿run_id,agent,latency_ms,tokens,status,day
+R01,planner,100.0,50.0,ok,2026-10-21
+R02,researcher,300.0,100.0,ok,2026-10-21
+R03,writer,200.0,80.0,ok,2026-10-21
+R04,planner,120.0,60.0,ok,2026-10-21
+R05,researcher,500.0,200.0,ok,2026-10-21
+R06,writer,250.0,90.0,ok,2026-10-21
+R07,planner,140.0,70.0,ok,2026-10-22
+R08,researcher,,100.0,error,2026-10-22
+R09,writer,,110.0,ok,2026-10-22
+R10,planner,,,error,2026-10-22
+R11,researcher,900.0,300.0,error,
+R12,writer,350.0,120.0,ok,2026-10-22

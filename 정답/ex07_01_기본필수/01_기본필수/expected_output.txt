@@ -1,0 +1,9 @@
+{
+  "raw_rows": 13,
+  "clean_rows": 12,
+  "summary_rows": 3,
+  "measured": 9,
+  "charts": 2,
+  "out": "out",
+  "roundtrip_verified": true
+}
