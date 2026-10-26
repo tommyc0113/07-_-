@@ -1,0 +1,22 @@
+{
+  "distance_contribution": {
+    "numeric_squared": 2.2075392073775815,
+    "categorical_squared": 2.0,
+    "total_squared": 4.2075392073775815
+  },
+  "id_pair": [
+    "R009",
+    "R094"
+  ],
+  "alternative_scaling": [
+    {
+      "experiment": "numeric_only",
+      "valid_F1": 0.2
+    },
+    {
+      "experiment": "whole_including_onehot",
+      "valid_F1": 0.4444444444444444
+    }
+  ],
+  "note": "범주 원핫의 거리 가중도 바뀌는 별도 실험. 기존 none/standard/minmax 비교와 섞지 않음"
+}

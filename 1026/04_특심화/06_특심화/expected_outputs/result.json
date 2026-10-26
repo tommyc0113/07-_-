@@ -1,0 +1,21 @@
+{
+  "weights_comparison": [
+    {
+      "weights": "uniform",
+      "train_F1": 0.5714285714285714,
+      "valid_F1": 0.5454545454545454
+    },
+    {
+      "weights": "distance",
+      "train_F1": 1.0,
+      "valid_F1": 0.42857142857142855
+    }
+  ],
+  "selected_weights": "uniform",
+  "clone_check": {
+    "base_K": 5,
+    "trial_K": 3,
+    "base_unfitted": true
+  },
+  "scope": "가중치만 추가한 2후보 보조 실험. test를 보지 않으며 모든 조합의 최적값 주장이 아님."
+}

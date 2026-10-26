@@ -1,0 +1,63 @@
+{
+  "error_cases": [
+    {
+      "request_id": "R019",
+      "input_chars": 1629.0,
+      "allowed_tools": 2.0,
+      "task_type": "qa",
+      "priority": "low",
+      "actual": 0,
+      "prediction": 1,
+      "prob_failed": 0.7054014047290975,
+      "error_type": "FP"
+    },
+    {
+      "request_id": "R001",
+      "input_chars": 1549.0,
+      "allowed_tools": 4.0,
+      "task_type": "summary",
+      "priority": "normal",
+      "actual": 1,
+      "prediction": 0,
+      "prob_failed": 0.3163028792574444,
+      "error_type": "FN"
+    }
+  ],
+  "C_comparison": [
+    {
+      "C": 0.1,
+      "Accuracy": 0.7,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "TN": 14,
+      "FP": 0,
+      "FN": 6,
+      "TP": 0
+    },
+    {
+      "C": 1.0,
+      "Accuracy": 0.6,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333,
+      "TN": 10,
+      "FP": 4,
+      "FN": 4,
+      "TP": 2
+    },
+    {
+      "C": 10.0,
+      "Accuracy": 0.6,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333,
+      "TN": 10,
+      "FP": 4,
+      "FN": 4,
+      "TP": 2
+    }
+  ],
+  "selected_C": 1.0,
+  "fixed": "동일 분할·standard·max_iter=1000; 사전 F1 최대·동점 작은 C"
+}

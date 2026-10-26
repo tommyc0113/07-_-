@@ -1,0 +1,36 @@
+{
+  "policy_comparison": [
+    {
+      "model": "all_train",
+      "n_train": 6,
+      "MAE_ms": 3561.9047619047615,
+      "RMSE_ms": 3598.6896078189397,
+      "R2": -1941.585034013605
+    },
+    {
+      "model": "train_iqr",
+      "n_train": 5,
+      "MAE_ms": 0.0,
+      "RMSE_ms": 0.0,
+      "R2": 1.0
+    }
+  ],
+  "train_iqr_bounds": [
+    -150.0,
+    850.0
+  ],
+  "custom_metric_tradeoff": {
+    "A": {
+      "MAE_ms": 40.0,
+      "RMSE_ms": 80.0,
+      "R2": 0.488
+    },
+    "B": {
+      "MAE_ms": 50.0,
+      "RMSE_ms": 50.0,
+      "R2": 0.8
+    }
+  },
+  "valid_kept": 3,
+  "note": "개선은 이 교육용 자료의 결과이며 이상치 자동삭제를 일반화하지 않습니다."
+}

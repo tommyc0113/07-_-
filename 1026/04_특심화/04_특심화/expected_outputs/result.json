@@ -1,0 +1,40 @@
+{
+  "distance_choice": [
+    {
+      "p": 1,
+      "neighbor_index": 0,
+      "distance": 3.0,
+      "prediction": 0
+    },
+    {
+      "p": 2,
+      "neighbor_index": 1,
+      "distance": 2.8284271247461903,
+      "prediction": 1
+    }
+  ],
+  "tie_order_observation": [
+    {
+      "order": [
+        0,
+        1
+      ],
+      "prediction": 0
+    },
+    {
+      "order": [
+        1,
+        0
+      ],
+      "prediction": 1
+    }
+  ],
+  "rejected_K": [
+    "0",
+    "4",
+    "1.5",
+    "True"
+  ],
+  "predict_time_failure": "fit은 성공했지만 predict에서 이웃 수가 부족하여 실패",
+  "tie_warning": "동률 결과를 모든 구현·버전에서 같은 순서라고 일반화하지 않음"
+}

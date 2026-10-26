@@ -1,0 +1,3 @@
+﻿request_id,input_chars,allowed_tools,task_type,priority,actual,prediction,prob_failed,error_type
+R019,1629.0,2.0,qa,low,0,1,0.7054014047290975,FP
+R001,1549.0,4.0,summary,normal,1,0,0.3163028792574444,FN

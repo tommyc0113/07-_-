@@ -1,0 +1,2 @@
+결과 파일 검사 36건 통과. 보고서·개인 설명·Git 이력은 별도 확인합니다.
+새 프로세스 복원 대조: {'regression': True, 'classification': True}
