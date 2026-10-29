@@ -1,4 +1,0 @@
-분할: 60 20 20
-valid 클래스: {0: 14, 1: 6}
-행 역순 뒤 train 소속 변경 ID 수: 56
-저장: outputs/split_manifest.csv / seed 42·42만 아니라 원본과 행 순서도 보존

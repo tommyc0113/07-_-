@@ -1,8 +1,0 @@
-분할: 60 20 20
-변환 특성 수: 8
-valid 정확도: 0.7
-실패 발견: 0 / 6
-저장: outputs/validation_predictions.csv
-저장: outputs/split_manifest.csv, outputs/feature_names.json
-저장: outputs/pipeline.joblib
-08교시: restore.py 실행 후 reports/model_review.md를 작성합니다.
